@@ -1,5 +1,4 @@
 # Developmental-origin
-## The repository contains the source data and code for clustering analysis
 
 ## The developmental origin of complete metamorphosis in insects
 
